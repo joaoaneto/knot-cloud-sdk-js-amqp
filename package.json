@@ -1,10 +1,10 @@
 {
-  "name": "@cesarbr/knot-cloud-sdk-js-amqp",
-  "version": "1.0.1",
+  "name": "knot-cloud-sdk-js-amqp",
+  "version": "1.0.2",
   "description": "KNoT Cloud AMPQ SDK for NodeJS ",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/CESARBR/knot-cloud-sdk-js-amqp"
+    "url": "git+https://github.com/netoax/knot-cloud-sdk-js-amqp"
   },
   "main": "./dist/main.js",
   "module": "./dist/module.mjs",
